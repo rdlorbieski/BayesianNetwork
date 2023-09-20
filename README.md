@@ -50,7 +50,7 @@ $ [sudo] pip install pgmpy
 ```
 
 ## Demonstration of Results in Netica
-![Logo](https://rodolfo.lorbieski.eti.br/portfolio/final.gif)
+![Logo](https://rodolfo.lorbieski.eti.br/img/portfolio/projetos/final.gif)
 
 
 ## Autores
